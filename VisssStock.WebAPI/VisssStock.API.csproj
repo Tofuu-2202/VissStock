@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<PublishTrimmed>False</PublishTrimmed>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="12.0.1" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="ClosedXML" Version="0.102.2" />
+		<PackageReference Include="EPPlus" Version="7.1.3" />
+		<PackageReference Include="ExcelDataReader" Version="3.6.0" />
+		<PackageReference Include="ExcelDataReader.DataSet" Version="3.6.0" />
+		<PackageReference Include="Hellang.Middleware.ProblemDetails" Version="6.5.1" />
+		<PackageReference Include="Microsoft.AspNetCore" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authorization" Version="9.0.2" />
+		<PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.HttpOverrides" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.HttpsPolicy" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.ResponseCompression" Version="2.3.0" />
+		<PackageReference Include="Microsoft.Build.Framework" Version="17.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.24.0" />
+		<PackageReference Include="Microsoft.OpenApi" Version="2.0.0-preview9" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.9" />
+		<PackageReference Include="MongoDB.Driver" Version="2.25.0" />
+		<PackageReference Include="ncalc" Version="1.3.8" /> 
+		<PackageReference Include="ServiceStack.Interfaces" Version="8.6.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="8.0.2" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.24.0" />
+	</ItemGroup>
+
+	<!-- <ItemGroup>
+	  <ProjectReference Include="..\DropsShip.Domain\VisssStock.Domain.csproj" />
+	</ItemGroup> -->
+	<ItemGroup>
+		<ProjectReference Include="..\VisssStock.Application\VisssStock.Application.csproj" />
+		<ProjectReference Include="..\VisssStock.Infrastructure\VisssStock.Infrastructure.csproj" />
+	</ItemGroup>
+
+	
+
+</Project>

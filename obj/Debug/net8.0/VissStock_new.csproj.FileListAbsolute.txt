@@ -1,0 +1,5 @@
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/obj/Debug/net8.0/VissStock_new.csproj.AssemblyReference.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/obj/Debug/net8.0/VissStock_new.GeneratedMSBuildEditorConfig.editorconfig
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/obj/Debug/net8.0/VissStock_new.AssemblyInfoInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/obj/Debug/net8.0/VissStock_new.AssemblyInfo.cs
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/obj/Debug/net8.0/VissStock_new.csproj.CoreCompileInputs.cache

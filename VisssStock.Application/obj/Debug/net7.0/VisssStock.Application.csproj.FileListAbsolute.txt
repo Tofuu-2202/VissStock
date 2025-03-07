@@ -1,0 +1,10 @@
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.csproj.AssemblyReference.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.GeneratedMSBuildEditorConfig.editorconfig
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.AssemblyInfoInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.AssemblyInfo.cs
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.csproj.CoreCompileInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.csproj.AssemblyReference.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.GeneratedMSBuildEditorConfig.editorconfig
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.AssemblyInfoInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.AssemblyInfo.cs
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Application/obj/Debug/net7.0/VisssStock.Application.csproj.CoreCompileInputs.cache

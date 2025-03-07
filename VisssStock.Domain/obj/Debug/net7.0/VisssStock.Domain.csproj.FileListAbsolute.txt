@@ -1,0 +1,28 @@
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.deps.json
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.runtimeconfig.json
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.pdb
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.csproj.AssemblyReference.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.AssemblyInfoInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.AssemblyInfo.cs
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.csproj.CoreCompileInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/refint/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.pdb
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.genruntimeconfig.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/check check/VisssStock.Domain/obj/Debug/net7.0/ref/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.deps.json
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.runtimeconfig.json
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/bin/Debug/net7.0/VisssStock.Domain.pdb
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.csproj.AssemblyReference.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.AssemblyInfoInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.AssemblyInfo.cs
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.csproj.CoreCompileInputs.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/refint/VisssStock.Domain.dll
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.pdb
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/VisssStock.Domain.genruntimeconfig.cache
+/media/visssoft/MyDisk2/Tung/VissSoft/VissStock_new/VisssStock.Domain/obj/Debug/net7.0/ref/VisssStock.Domain.dll
